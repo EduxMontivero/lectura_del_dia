@@ -11,13 +11,10 @@
     <center>
         <div style="width:80%;margin:20px;padding:15px">
         <div class="row">
-            <div class="col-8">
+            <div class="col-12">
                 <h4>
                     Lectura del santo evangelio según san Mateo 22, 34-40
                 </h4>
-            </div>
-            <div class="col-4">
-                
             </div>
         </div>
         <div class="row">
