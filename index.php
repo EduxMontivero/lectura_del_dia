@@ -9,7 +9,7 @@
 <body>
     
     <center>
-        <div style="width:200px;margin:20px;padding:15px">
+        <div style="width:80%;margin:20px;padding:15px">
         <div class="row">
             <div class="col-8">
                 <h4>
@@ -22,13 +22,15 @@
         </div>
         <div class="row">
             <div class="col-12">
-                Cuando los fariseos se enteraron de que Jesús había hecho callar a los saduceos, se reunieron en ese lugar,
-                y uno de ellos, que era doctor de la Ley, le preguntó para ponerlo a prueba:
-                «Maestro, ¿cuál es el mandamiento más grande de la Ley?».
-                Jesús le respondió: «Amarás al Señor, tu Dios, con todo tu corazón, con toda tu alma y con todo tu espíritu.
-                Este es el más grande y el primer mandamiento.
-                El segundo es semejante al primero: Amarás a tu prójimo como a ti mismo.
-                De estos dos mandamientos dependen toda la Ley y los Profetas».
+                <b>
+                <br>Cuando los fariseos se enteraron de que Jesús había hecho callar a los saduceos, se reunieron en ese lugar,
+                <br>y uno de ellos, que era doctor de la Ley, le preguntó para ponerlo a prueba:
+                <br>«Maestro, ¿cuál es el mandamiento más grande de la Ley?».
+                <br>Jesús le respondió: «Amarás al Señor, tu Dios, con todo tu corazón, con toda tu alma y con todo tu espíritu.
+                <br>Este es el más grande y el primer mandamiento.
+                <br>El segundo es semejante al primero: Amarás a tu prójimo como a ti mismo.
+                <br>De estos dos mandamientos dependen toda la Ley y los Profetas».
+                </b>
             </div>
         </div>
         </div>
